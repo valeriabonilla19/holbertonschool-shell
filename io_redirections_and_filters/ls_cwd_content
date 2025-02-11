@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 valeria valeria 4096 feb 11 13:25 .
+drwxrwxr-x 6 valeria valeria 4096 feb 11 09:41 ..
+-rwxrwxr-x 1 valeria valeria   32 feb 11 10:07 0-hello_world
+-rwxrwxr-x 1 valeria valeria   30 feb 11 10:46 1-confused_smiley
+-rwxrwxr-x 1 valeria valeria   28 feb 11 10:54 2-hellofile
+-rwxrwxr-x 1 valeria valeria   39 feb 11 12:07 3-twofiles
+-rwxrwxr-x 1 valeria valeria   29 feb 11 12:16 4-lastlines
+-rwxrwxr-x 1 valeria valeria   29 feb 11 12:19 5-firstlines
+-rwxrwxr-x 1 valeria valeria   36 feb 11 12:27 6-third_line
+-rwxrwxr-x 1 valeria valeria  103 feb 11 13:11 7-file
+-rwxrwxr-x 1 valeria valeria   36 feb 11 13:25 8-cwd_state
+-rw-rw-r-- 1 valeria valeria   12 feb 11 12:53 \*\'"Best School"\*$?*****:)
+-rw-rw-r-- 1 valeria valeria    0 feb 11 13:25 ls_cwd_content
+-rw-rw-r-- 1 valeria valeria   31 feb 11 09:45 README.md
